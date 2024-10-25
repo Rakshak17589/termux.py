@@ -56,7 +56,7 @@ def logo():
 \033[1;35m█            █   █  
 \033[1;37m█  █ █ █ █  █     █  INSANE 
 
-\t    \033[1;37m\033[1;41m AUTHOR : S9HB9N SH9IF3 💜 \033[0m\033[1;37m
+\t    \033[1;37m\033[1;41m AUTHOR : Rakshak ojha 💜 \033[0m\033[1;37m
 \033[1;37;1m-----------------------------------------------
 \033[1;37;1m ▶ AUTHOR   : Rakshak ojha
 \033[1;37;1m ▶ TEAM     : UK INSANE 
@@ -141,7 +141,7 @@ if int:
 		os.system('clear');logo();print('\033[1;37;1m[\033[1;32;1m✓\033[1;37;1m] Target Profile Name : \033[1;32;1m%s'%(m))
 		print('\033[1;37;1m[\033[1;32;1m✓\033[1;37;1m] TARGET POST ID LINK : \033[1;32;1m%s'%(post_id))
 		print(47*'\033[1;37;1m-')
-		print('\033[1;37;1m[$] S9HB99N SH9IF3 💜')
+		print('\033[1;37;1m[$] Rakshak ojha 💜')
 		ns = open(ms, 'r').readlines()
 	for i in range(repeat):
 		posts = get_posts()
